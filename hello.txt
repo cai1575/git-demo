@@ -22,3 +22,6 @@ git reset -hard 版本号 回溯
 git branch name
 git checkout name 切换分支
 git branch -v查看版本号
+git remote -v查看别名
+git remote add 别名 网址
+git push 别名 分支
