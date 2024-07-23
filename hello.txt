@@ -9,22 +9,16 @@ hell0
 hell0
 hell0
 hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
-hell0
+git reflog 查看版本号
+git log
+
+git status 查看状态
+
+git add
+
+git commit -m "" name
+
+git reset -hard 版本号 回溯
+git branch name
+git checkout name 切换分支
+git branch -v查看版本号
